@@ -38,7 +38,7 @@ The App has a very simple and interactive interface which helps people for onlin
 <li>Firebase Authentication:
     It also provides identity solution for emails & passwords. There is no compromise from security point of view. Firebase UI is also flexible, customized & drop in dealing.</li>
 
-<li>Firestore: 
+<li>Firestore Database: 
     Data can be retrieved from mobile & web in real time, real time updates can be achieved from document and all queries can be resolved in real time.</li>
 	</ul>
 	<b>Application Link & Future Scope :</b><br>
